@@ -7,11 +7,13 @@ This project focuses on performing data analysis using SQL for a mobile manufact
 ---
 
 ## 📂 Project Structure
-
+```
 SQL- Mobile manufacturer data analysis/
-├── Answer_Template.sql # SQL queries solving the case study
-└── SQL Case Study 2 (Create Database and Tables).sql # SQL script to create tables and schema
-
+|
+├── Answer_Template.sql   # SQL queries solving the case study
+|
+└── Mobile_manufacturer_dataset.sql     # SQL SQL script to create database schema, tables, and insert sample data.
+```
 
 ---
 
@@ -39,7 +41,7 @@ SQL- Mobile manufacturer data analysis/
 ## 🚀 How to Use
 
 1. Use any SQL-compatible RDBMS (MySQL, PostgreSQL, SQLite).
-2. Run `SQL Case Study 2 (Create Database and Tables).sql` to set up the database.
+2. Run `Mobile_manufacturer_dataset.sql ` to set up the database.
 3. Execute `Answer_Template.sql` to run the queries and retrieve insights.
 
 ---
