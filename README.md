@@ -9,8 +9,8 @@ This project focuses on performing data analysis using SQL for a mobile manufact
 ## 📂 Project Structure
 
 SQL- Mobile manufacturer data analysis/
-├── Answer_Template.sql # Solutions to SQL case study questions
-├── SQL Case Study 2 (Create Database and Tables).sql # SQL script for DB schema creation
+├── Answer_Template.sql # SQL queries solving the case study
+└── SQL Case Study 2 (Create Database and Tables).sql # SQL script to create tables and schema
 
 
 ---
@@ -54,6 +54,6 @@ SQL- Mobile manufacturer data analysis/
 ## 📌 Author
 
 Abhishek Bhardwaj  
-[LinkedIn]((https://www.linkedin.com/in/abhishekbhardwaj28)
+[LinkedIn](https://www.linkedin.com/in/abhishekbhardwaj28)
 [GitHub](https://github.com/abhishek-9617)
 
