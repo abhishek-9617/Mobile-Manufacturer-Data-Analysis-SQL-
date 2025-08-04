@@ -16,7 +16,7 @@ SQL- Mobile manufacturer data analysis/
 ```
 
 ---
-## 🖼️ Dashboard Preview
+## 🖼️ Query Preview
 
 ![output1](outputs/plots/fig1.png)
 
