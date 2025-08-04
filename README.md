@@ -16,6 +16,14 @@ SQL- Mobile manufacturer data analysis/
 ```
 
 ---
+## 🖼️ Dashboard Preview
+
+![output1](outputs/plots/fig1.png)
+
+![output2](outputs/plots/fig2.png)
+
+![output3](outputs/plots/fig3.png)
+
 
 ## 🔍 Key Concepts Covered
 
